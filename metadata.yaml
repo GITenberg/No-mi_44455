@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44455#No-mi
 gutenberg_issued: '2013-12-17'
 gutenberg_type: Text
 identifiers:
